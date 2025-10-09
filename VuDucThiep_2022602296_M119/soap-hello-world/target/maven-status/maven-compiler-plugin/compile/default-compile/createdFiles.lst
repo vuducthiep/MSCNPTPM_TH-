@@ -1,0 +1,7 @@
+com\example\soaphelloworld\HelloRequest.class
+com\example\soap_hello_world\SoapHelloWorldApplication.class
+com\example\soaphelloworld\endpoint\HelloEndpoint.class
+com\example\soaphelloworld\config\WebServiceConfig.class
+com\example\soaphelloworld\ObjectFactory.class
+com\example\soaphelloworld\HelloResponse.class
+com\example\soaphelloworld\package-info.class
